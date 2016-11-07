@@ -1,5 +1,5 @@
 """
-SooperDooMGuy main module
+SuperDooMGuy main module
 
 Developed by Aver (c)
 (just for fun)
