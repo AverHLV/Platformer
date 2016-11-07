@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="124" height="136" tilewidth="32" tileheight="32" nextobjectid="119">
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="91" columns="13">
+  <image source="tileset.png" width="417" height="224"/>
+ </tileset>
+ <tileset firstgid="92" name="tileset" tilewidth="32" tileheight="32" tilecount="91" columns="13">
+  <image source="tileset.png" width="417" height="224"/>
+ </tileset>
+ <tileset firstgid="183" name="tileset" tilewidth="32" tileheight="32" tilecount="91" columns="13">
+  <image source="tileset.png" width="417" height="224"/>
+ </tileset>
+ <layer name="Platforms" width="124" height="136">
+  <data encoding="base64" compression="zlib">
+   eJztm0Fy5DgMBPWC/cDcd7+R8/9P7fq0jh5JFkGQhRKZEQjLarKQAUzPzcdxHL8OX1ALGPHr46cjqAWM2Ptei73vtdj7Xou977XY+16Lve+12Ptei73vtXjzvjmp1Xnzvjd/sve9Fnvfa/HrW6ngh3pyf/OMCvvuBbWAEXvfa9GzaxprFCOz34b7d/sL1AJH+7/9uxrJ3rd//xb2vn17R/jaNce8/09GwGJ9e9jfb5+eGbxh37NBLdDB3ncbqAU62ft+DmqBBN6w778m9GBCjxl87fq3aVG41HBTWfmbWnPANNsFOu611AwnVa4LTL6n7jEi0wUm36vQKzvPBSbf6yGzZ2ZWJjRUJDvqpCKrd1aOE0y6k0lW/6wcJxh8fgQUy3GCm/dnld07khm5MzLHCR6+m+2QeX50jhP88PssWvq2nJ2R4wRqgW+QfC6aw6CqAEc9n4wzWb3eBhfPSrh4vnvX22cVOPn9eyng4vnuXW+fVUAtcAIXz3fvevusAsnnMuDi+e5db59VYNDZHrh4vnvX22cVUAucwMXz3bvePquAWuAELp7v3vX2WQUm3Ynmn/XK6p+V4wSd5+moJz3Ozt3dbSErpxcmV4tXJtG86L1ROb2gFpgAx5r75qLeDB8/o/d7ycrp7Xf1XgWDss5yualsn6yc3l53n6lgQEY0M3pvVE5vn58+V0Hy3Whe9N6onN4eT844QeP7aJ4qpzf/6TkHCH4WzVTk9Ga3nJ0NiWdbsjLuteTw8XlLz5azkfOzIPksH8+fleHxtP+T7Cd9n5zJuDMaBpxtycy491POk1wGlDMMOptxb1TOqjDgPMef34XWPk/6Z2W+AZLOtN65+jzS60lOVu4bIPhZNHPEvVE5b4WH73ryRt47y6lQLiC639u3GixWV0TubO5BLRAAtYAxqAUCoBYwBrVAANQCxqAWCIBawBjUAgFQCxiDWiAAagFjUAsEQC1gDGqBAKgFjEEtEAC1gDGoBQKgFjAGtUAA1ALGoBYIgFrAGNQCAVALGINaIABqAWNQCwRALWAMaoEAqAWMQS0QALWAMSRlzKhM51VBLRAAtYAxqAUCoBYwBrVAANQCxqAWCIBawBhu3t+VEnV/Z1ALBEAtYAxqgQCoBYxBLRAAtYAxqAUCoBYwhsH5f/9X/yRnkpy3EiTmPKmsXpsYqAUCoBYwBrVAANQCxqAWCIBawBjUAgFQCxiDWiAAagFjfnfUrD69vTf/4zg7R+cqOM7O0bkKjrNzdK6C4+wcnavgODtH5yo4zs7RuQqOs3N0roLj7Bydq+A4O0fnKjjOztG5Co6zc3SuguPsHJ2r4Dg7R+cqOM7O0bkKjrNzdK6C4+wcnavgODtH5yo4zs7RuQqOs3N0roLj7Bydq+A4O0fnKjjOztG5Co6zc3SuguPsHJ2r4Dg7R+cqOM7O0bkKjrNzdK6C4+wcnavgODtH5yo4zs7RuQous9t/D5yDw+w+HR2cq5L9d/iz6l/XZuNH
+  </data>
+ </layer>
+ <layer name="Background" width="124" height="136">
+  <data encoding="base64" compression="zlib">
+   eJzt3U1S2zAYANBcoBdgC1O20LBtuy8/yxTK/e+BmFYzqpBie1Asx35v5hvsOJEVxrEiW/qy2wEAAEBbNyFuQ3zrXRFm8T3EjxA/e1eEWfwKcd+7EsB/tLvbot1dv98hnv8ta3cB5pWeg2v2c1QEzsCYzwsAAEDkXsa2rPVexkOIxxBPvSvSUO09lfr9X0NcF8qYci8jlpv/ncPUfb6E+BPidWT5tf/Pkkx9T0B7Pc5/sEb6F9uy1v4Ff+VtYql/4R49ACVpG3KqtuJwonIBIDp2nbC27TCwfQmWXDcAAABYAuMetqU07qE0fneOccoXhXh3mTzn6oT7P2ela16lx0rjHkrjd43phX5cw2aL7nbG4QFAb196VwBG8J3x9PRJOWd5LgXnDM6Z72bAGqwtD9bYcRS1c3j++qWOyxjqE9S297y/nB5rrY67MfkjjrXX8fW19bHW9jkaMqZPmh5r+XF3N7Gs+JzP/tZO/vpaeUPzgY3TAAAAAAAAAACghRZzQ/ZJtCoTAGDNfF8CAAAAgPF65txI911bpq00h8fceTTSfdeWaSPP4RHXYx6NuN7ienpaRrqc5vvI6xEfz/MVAgAAAAAAAAAAAAAAAAAAH7Wcgz+1rP3wU5gon+ufr7ecg28+//wO2frL7uNc/3w9zsGv5QA4lhsgbnv/rKbz/OXnpeYN+nNQ+A==
+  </data>
+ </layer>
+ <layer name="BlockDie" width="124" height="136">
+  <data encoding="base64" compression="zlib">
+   eJzt28EOgyAURUET/v+fuydtbatW3rszCXHBhuQYcCHbBgAAAAAAAAAAQEfj7gXwV3pn0TuL3ln0zqJ3Fr2z6A0AmXwDZNE7i95Z9M6idxa9s+idRe8cY3o+m6OHued4M0dtr3oe6TymwRr2WmjVx6ctNa/v24aa1/VrO83rOdpM81r0znJmb+3Xd1ZvrWuwn3MF70UOrXNoDQAAcB3/KAH2AQBW5GwCunNvCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADoaty9AJbyAMlfALU=
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="64" name="Coin" gid="2" x="576" y="544" width="32" height="32"/>
+  <object id="65" name="Coin" gid="2" x="608" y="544" width="32" height="32"/>
+  <object id="66" name="Coin" gid="2" x="640" y="544" width="32" height="32"/>
+  <object id="67" name="Coin" gid="2" x="672" y="544" width="32" height="32"/>
+  <object id="68" name="BlockBlink" gid="6" x="96" y="864" width="32" height="32">
+   <properties>
+    <property name="go_x" type="int" value="36"/>
+    <property name="go_y" type="int" value="13"/>
+   </properties>
+  </object>
+  <object id="69" name="Hero" gid="11" x="64" y="672" width="32" height="32"/>
+  <object id="70" name="Bonfire" gid="1" x="1984" y="864" width="32" height="32"/>
+  <object id="71" name="AngryMonster" gid="8" x="1184" y="864" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="72" name="AngryMonster" gid="8" x="672" y="864" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="73" name="BlockStop" gid="27" x="128" y="864" width="32" height="32"/>
+  <object id="74" name="ShootingMonster" gid="10" x="2880" y="576" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="100"/>
+    <property name="x_speed" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="75" name="AngryMonster" gid="8" x="3296" y="928" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="76" name="BlockStop" gid="27" x="3040" y="928" width="32" height="32"/>
+  <object id="77" name="BlockStop" gid="27" x="3456" y="928" width="32" height="32"/>
+  <object id="78" name="BlockBlink" gid="6" x="3872" y="2144" width="32" height="32">
+   <properties>
+    <property name="go_x" type="int" value="120"/>
+    <property name="go_y" type="int" value="52"/>
+   </properties>
+  </object>
+  <object id="79" name="Coin" gid="2" x="3776" y="1696" width="32" height="32"/>
+  <object id="80" name="Coin" gid="2" x="3808" y="1696" width="32" height="32"/>
+  <object id="81" name="Coin" gid="2" x="3680" y="1888" width="32" height="32"/>
+  <object id="83" name="AngryMonster" gid="8" x="3392" y="2720" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="85" name="BlockStop" gid="27" x="3008" y="2720" width="32" height="32"/>
+  <object id="86" name="BlockStop" gid="27" x="3872" y="2720" width="32" height="32"/>
+  <object id="87" name="Monster" gid="9" x="2208" y="352" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="150"/>
+    <property name="max_length_up" type="int" value="20"/>
+    <property name="x_speed" type="int" value="3"/>
+    <property name="y_speed" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="88" name="ShootingMonster" gid="10" x="3232" y="3072" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="100"/>
+    <property name="x_speed" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="89" name="Monster" gid="9" x="3584" y="2336" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="150"/>
+    <property name="max_length_up" type="int" value="20"/>
+    <property name="x_speed" type="int" value="3"/>
+    <property name="y_speed" type="int" value="1"/>
+   </properties>
+  </object>
+  <object id="90" name="AngryMonster" gid="8" x="3104" y="4320" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="91" name="AngryMonster" gid="8" x="3360" y="4320" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="92" name="BlockBlink" gid="6" x="2560" y="4320" width="32" height="32">
+   <properties>
+    <property name="go_x" type="int" value="64"/>
+    <property name="go_y" type="int" value="26"/>
+   </properties>
+  </object>
+  <object id="93" name="BlockStop" gid="27" x="2592" y="4320" width="32" height="32"/>
+  <object id="94" name="Coin" gid="2" x="2848" y="2880" width="32" height="32"/>
+  <object id="95" name="Coin" gid="2" x="2880" y="2880" width="32" height="32"/>
+  <object id="96" name="Coin" gid="2" x="3456" y="3264" width="32" height="32"/>
+  <object id="97" name="Coin" gid="2" x="3552" y="3264" width="32" height="32"/>
+  <object id="98" name="Coin" gid="2" x="3584" y="3264" width="32" height="32"/>
+  <object id="99" name="Key" gid="5" x="3872" y="4256" width="32" height="32"/>
+  <object id="100" name="Coin" gid="2" x="3168" y="1920" width="32" height="32"/>
+  <object id="101" name="Coin" gid="2" x="3296" y="1792" width="32" height="32"/>
+  <object id="102" name="Coin" gid="2" x="3392" y="1696" width="32" height="32"/>
+  <object id="103" name="Monster" gid="9" x="2496" y="1952" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="0"/>
+    <property name="max_length_up" type="int" value="201"/>
+    <property name="x_speed" type="int" value="0"/>
+    <property name="y_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="104" name="Bonfire" gid="1" x="1856" y="2144" width="32" height="32"/>
+  <object id="105" name="Bonfire" gid="1" x="2912" y="3264" width="32" height="32"/>
+  <object id="106" name="ShootingMonster" gid="10" x="1184" y="2112" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="100"/>
+    <property name="x_speed" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="107" name="ShootingMonster" gid="10" x="2272" y="1600" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="100"/>
+    <property name="x_speed" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="108" name="ShootingMonster" gid="10" x="2112" y="1600" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="100"/>
+    <property name="x_speed" type="int" value="3"/>
+   </properties>
+  </object>
+  <object id="109" name="AngryMonster" gid="8" x="1152" y="1280" width="32" height="32">
+   <properties>
+    <property name="max_length_left" type="int" value="500"/>
+    <property name="x_speed" type="int" value="5"/>
+   </properties>
+  </object>
+  <object id="111" name="Coin" gid="2" x="1024" y="1952" width="32" height="32"/>
+  <object id="112" name="Coin" gid="2" x="1056" y="1952" width="32" height="32"/>
+  <object id="113" name="Coin" gid="2" x="1088" y="1952" width="32" height="32"/>
+  <object id="114" name="BlockStop" gid="27" x="1376" y="1280" width="32" height="32"/>
+  <object id="115" name="BlockStop" gid="27" x="704" y="1280" width="32" height="32"/>
+  <object id="116" name="BlockBlink" gid="6" x="2464" y="1600" width="32" height="32">
+   <properties>
+    <property name="go_x" type="int" value="24"/>
+    <property name="go_y" type="int" value="39"/>
+   </properties>
+  </object>
+  <object id="117" name="BlockBlink" gid="6" x="1408" y="1280" width="32" height="32">
+   <properties>
+    <property name="go_x" type="int" value="56"/>
+    <property name="go_y" type="int" value="32"/>
+   </properties>
+  </object>
+  <object id="118" name="Exit" gid="4" x="2048" y="1056" width="32" height="32"/>
+ </objectgroup>
+</map>
