@@ -1,12 +1,18 @@
 # SuperDooMGuy
-Small platformer with tiled graphics, powered by pygame.
-Inspired by SuperMeatBoy and DooM
+Small platformer with tiled graphics, powered by pygame. Inspired by SuperMeatBoy and DooM.
 
-_Requires:_
-    pygame
-    pyganimation
-    pytmx
+## Requirements:
+* pygame
+* pyganimation
+* pytmx
 
-Screen shots:
-https://pp.vk.me/c631416/v631416979/3ebb2/FfPR3jlFWUc.jpg
-https://pp.vk.me/c631416/v631416979/3ebbc/RNDqZTpd33I.jpg
+## Frozen version
+You can download frozen version in SFX-archive [here](http://sendfile.su/1280878).
+
+_Some notices:_
+- The game may not work properly if the address contains cyrillic characters!
+- If you get Runtime Error try to install Microsoft Visual C++ Redistributable from game_folder/redist/ according to your OS.
+
+## Screen shots:
+![1](http://img-host.org.ua/images/ffpr3jlfwuc.jpg)
+![2](http://img-host.org.ua/images/rndqztpd33i.jpg)
